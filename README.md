@@ -1,3 +1,6 @@
+# 借鉴别人的库
+# 可以直接运行
+在别人库上增加了一个gdal201.dll,现在可以直接运行，为后来者编译vpb提供便捷
 # osg_binary_win64
 - Release version of OpenSceneGraph 3.6.3 in Windows with MSVC2017 x64 + Documentation
 - Release version of osgQt master 04/23/2018 + Documentation
