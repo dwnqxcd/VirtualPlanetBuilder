@@ -1,0 +1,17 @@
+#Ascii Scene 
+#Version 158 
+#Generator OpenSceneGraph 3.6.3 
+
+osgTerrain::TerrainTile {
+  UniqueID 1 
+  TerrainTechnique TRUE {
+vpb::DatabaseBuilder {
+      UniqueID 2 
+      BuildOptions TRUE {
+vpb::BuildOptions {
+          UniqueID 3 
+        }
+      }
+}
+  }
+}
